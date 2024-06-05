@@ -2,7 +2,7 @@
 pedro: vulgo baiano rei das redes  
 carioca só no tempo livre
 
-- pupilo do alura 
+- pupilo do alura [alura](https://www.alura.com.br)
 - estou aprendendo javaescript
 - utilizo esse espaço como meio de compartilhar meus projetos.
 ## pode entrar em contato 📫
