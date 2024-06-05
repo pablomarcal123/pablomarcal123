@@ -7,4 +7,5 @@ carioca só no tempo livre
 - utilizo esse espaço como meio de compartilhar meus projetos.
 ## pode entrar em contato 📫
 00001160702548sp@aluno.educacao.sp.gov.br 
+
 ![](https://media1.tenor.com/m/0OLbcKzsxuEAAAAC/kobe-bryant-kobe.gif)
